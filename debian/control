@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               mesen (>= 0.9.7)
+               libretro-mesen (>= 0.9.7) | mesen (>= 0.9.7)
 Standards-Version: 3.9.8
 Section: libs
 
