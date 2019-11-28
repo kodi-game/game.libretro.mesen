@@ -20,6 +20,7 @@
 		<setting label="30017" type="select" id="mesen_reduce_dmc_popping" values="enabled|disabled" default="enabled"/>
 		<setting label="30018" type="select" id="mesen_region" values="Auto|NTSC|PAL|Dendy" default="Auto"/>
 		<setting label="30019" type="select" id="mesen_screenrotation" values="None|90 degrees|180 degrees|270 degrees" default="None"/>
-		<setting label="30020" type="select" id="mesen_swap_duty_cycle" values="disabled|enabled" default="disabled"/>
+		<setting label="30020" type="select" id="mesen_shift_buttons_clockwise" values="disabled|enabled" default="disabled"/>
+		<setting label="30021" type="select" id="mesen_swap_duty_cycle" values="disabled|enabled" default="disabled"/>
 	</category>
 </settings>

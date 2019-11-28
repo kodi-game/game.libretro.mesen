@@ -97,5 +97,9 @@ msgid "Screen Rotation"
 msgstr ""
 
 msgctxt "#30020"
+msgid "Shift A/B/X/Y clockwise"
+msgstr ""
+
+msgctxt "#30021"
 msgid "Swap Square channel duty cycles"
 msgstr ""
