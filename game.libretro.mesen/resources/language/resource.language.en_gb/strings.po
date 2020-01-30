@@ -25,81 +25,85 @@ msgid "Aspect Ratio"
 msgstr ""
 
 msgctxt "#30002"
-msgid "Controller Turbo Speed"
+msgid "Sound Output Sample Rate"
 msgstr ""
 
 msgctxt "#30003"
-msgid "Disable Noise channel mode flag"
+msgid "Controller Turbo Speed"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Enable fake stereo effect"
+msgid "Disable Noise channel mode flag"
 msgstr ""
 
 msgctxt "#30005"
-msgid "FDS: Automatically insert disks"
+msgid "Enable fake stereo effect"
 msgstr ""
 
 msgctxt "#30006"
-msgid "FDS: Fast forward while loading"
+msgid "FDS: Automatically insert disks"
 msgstr ""
 
 msgctxt "#30007"
-msgid "Enable HD Packs"
+msgid "FDS: Fast forward while loading"
 msgstr ""
 
 msgctxt "#30008"
-msgid "Reduce popping on Triangle channel"
+msgid "Enable HD Packs"
 msgstr ""
 
 msgctxt "#30009"
-msgid "Remove sprite limit"
+msgid "Reduce popping on Triangle channel"
 msgstr ""
 
 msgctxt "#30010"
-msgid "NTSC filter"
+msgid "Remove sprite limit"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Overclock"
+msgid "NTSC filter"
 msgstr ""
 
 msgctxt "#30012"
-msgid "Overclock Type"
+msgid "Overclock"
 msgstr ""
 
 msgctxt "#30013"
-msgid "Horizontal Overscan"
+msgid "Overclock Type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Vertical Overscan"
+msgid "Horizontal Overscan"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Palette"
+msgid "Vertical Overscan"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Default power-on state for RAM"
+msgid "Palette"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Reduce popping on DMC channel"
+msgid "Default power-on state for RAM"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Region"
+msgid "Reduce popping on DMC channel"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Screen Rotation"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Shift A/B/X/Y clockwise"
+msgid "Screen Rotation"
 msgstr ""
 
 msgctxt "#30021"
+msgid "Shift A/B/X/Y clockwise"
+msgstr ""
+
+msgctxt "#30022"
 msgid "Swap Square channel duty cycles"
 msgstr ""

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mesen"
 		name="Nintendo - NES / Famicom (Mesen)"
-		version="0.9.8.8"
+		version="0.9.8.9"
 		provider-name="Libretro">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
