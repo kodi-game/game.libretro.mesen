@@ -73,37 +73,45 @@ msgid "Overclock Type"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Horizontal Overscan"
+msgid "Bottom Overscan"
 msgstr ""
 
 msgctxt "#30015"
-msgid "Vertical Overscan"
+msgid "Left Overscan"
 msgstr ""
 
 msgctxt "#30016"
-msgid "Palette"
+msgid "Right Overscan"
 msgstr ""
 
 msgctxt "#30017"
-msgid "Default power-on state for RAM"
+msgid "Top Overscan"
 msgstr ""
 
 msgctxt "#30018"
-msgid "Reduce popping on DMC channel"
+msgid "Palette"
 msgstr ""
 
 msgctxt "#30019"
-msgid "Region"
+msgid "Default power-on state for RAM"
 msgstr ""
 
 msgctxt "#30020"
-msgid "Screen Rotation"
+msgid "Reduce popping on DMC channel"
 msgstr ""
 
 msgctxt "#30021"
-msgid "Shift A/B/X/Y clockwise"
+msgid "Region"
 msgstr ""
 
 msgctxt "#30022"
+msgid "Screen Rotation"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Shift A/B/X/Y clockwise"
+msgstr ""
+
+msgctxt "#30024"
 msgid "Swap Square channel duty cycles"
 msgstr ""

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mesen"
 		name="Nintendo - NES / Famicom (Mesen)"
-		version="0.9.9.10"
-		provider-name="Libretro">
+		version="0.9.9.11"
+		provider-name="M. Bibaud (aka Sour)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>

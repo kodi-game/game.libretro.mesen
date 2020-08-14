@@ -1,1 +1,1 @@
-mesen https://github.com/SourMesen/Mesen/archive/cfc5bf6976f62ebd42ea30d5a803c138fc357509.zip
+mesen https://github.com/SourMesen/Mesen/archive/86326e832974d984846ae078e568c023a5f76f1f.zip
