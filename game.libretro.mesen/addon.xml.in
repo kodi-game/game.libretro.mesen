@@ -15,7 +15,9 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Nintendo - NES / Famicom (Mesen) 0.9.9</summary>
-		<description lang="en_GB">Supported files: .nes, .fds, .unf, .unif</description>
+		<description lang="en_GB">Mesen is a high-accuracy NES emulator for Windows and Linux. It offers numerous features, such as save states, video filters, netplay, rewinding, overclocking, cheat codes and HD packs.
+
+Supported files: .nes, .fds, .unf, .unif</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mesen</source>
