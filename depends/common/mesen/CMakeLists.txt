@@ -17,7 +17,12 @@ endif()
 
 if(CORE_SYSTEM_NAME STREQUAL windows)
   find_package(MinGW REQUIRED)
-  set(BUILD_COMMAND ${MINGW_MAKE} -j$ENV{NUMBER_OF_PROCESSORS} -C Libretro -f Makefile platform=win  ${LIBRETRO_DEBUG} GIT_VERSION=)
+  if(CPU STREQUAL arm64)
+    set(MSYSTEM MINGW64)
+  else()
+    set(MSYSTEM MINGW32)
+  endif()
+  set(BUILD_COMMAND ${MINGW_MAKE} -j$ENV{NUMBER_OF_PROCESSORS} -C Libretro -f Makefile platform=win MSYSTEM=${MSYSTEM}  ${LIBRETRO_DEBUG} GIT_VERSION=)
 elseif(CORE_SYSTEM_NAME STREQUAL linux)
   set(BUILD_COMMAND $(MAKE) -C Libretro -f Makefile  platform=unix ${LIBRETRO_DEBUG} GIT_VERSION=)
 elseif(CORE_SYSTEM_NAME STREQUAL osx)
@@ -46,7 +51,7 @@ elseif(CORE_SYSTEM_NAME STREQUAL android)
   else()
     message(FATAL_ERROR "${PROJECT_NAME} needs Android ${CPU} build command in CMakeLists.txt!")
   endif()
-  set(BUILD_COMMAND GNUMAKE=$(MAKE) ${NDKROOT}/ndk-build -C libretro/jni APP_ABI=${PLATFORM} V7NEONOPTIMIZATION=1 GIT_VERSION=
+  set(BUILD_COMMAND GNUMAKE=$(MAKE) ${NDKROOT}/ndk-build -C Libretro/jni APP_ABI=${PLATFORM} V7NEONOPTIMIZATION=1 GIT_VERSION=
                                     NDK_LIBS_OUT=${PROJECT_SOURCE_DIR}/${LIBRETRO_BINARY_DIR}  ${LIBRETRO_DEBUG} V=1
                     && cp ${PROJECT_SOURCE_DIR}/${LIBRETRO_BINARY_DIR}/${PLATFORM}/${LIBRETRO_JNISONAME} ${PROJECT_SOURCE_DIR}/${LIBRETRO_BINARY_DIR}/${LIBRETRO_SONAME})
 elseif(CORE_SYSTEM_NAME STREQUAL rbpi)
