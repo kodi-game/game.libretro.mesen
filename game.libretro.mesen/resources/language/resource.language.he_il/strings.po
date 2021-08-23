@@ -16,6 +16,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - NES / Famicom (Mesen) 0.9.9"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "Mesen is a high-accuracy NES emulator for Windows and Linux. It offers numerous features, such as save states, video filters, netplay, rewinding, overclocking, cheat codes and HD packs.
+
+Supported files: .nes, .fds, .unf, .unif"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr ""
