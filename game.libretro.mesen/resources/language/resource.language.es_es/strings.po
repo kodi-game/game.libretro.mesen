@@ -22,9 +22,7 @@ msgid "Nintendo - NES / Famicom (Mesen) 0.9.9"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Mesen is a high-accuracy NES emulator for Windows and Linux. It offers numerous features, such as save states, video filters, netplay, rewinding, overclocking, cheat codes and HD packs.
-
-Supported files: .nes, .fds, .unf, .unif"
+msgid "Mesen is a high-accuracy NES emulator for Windows and Linux. It offers numerous features, such as save states, video filters, netplay, rewinding, overclocking, cheat codes and HD packs.Supported files: .nes, .fds, .unf, .unif"
 msgstr ""
 
 msgctxt "#30000"
