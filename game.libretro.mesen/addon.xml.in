@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mesen"
 		name="Nintendo - NES / Famicom (Mesen)"
-		version="0.9.9.16"
+		version="0.9.9.17"
 		provider-name="M. Bibaud (aka Sour)">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -12,6 +12,7 @@
 		<extensions>nes|fds|unf|unif</extensions>
 		<supports_vfs>false</supports_vfs>
 		<supports_standalone>false</supports_standalone>
+		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<license>GPLv3</license>
