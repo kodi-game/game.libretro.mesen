@@ -10,7 +10,7 @@
 		<setting label="30007" type="select" id="mesen_overscan_right" values="None|4px|8px|12px|16px" default="None"/>
 		<setting label="30008" type="select" id="mesen_overscan_up" values="None|4px|8px|12px|16px" default="None"/>
 		<setting label="30009" type="select" id="mesen_overscan_down" values="None|4px|8px|12px|16px" default="None"/>
-		<setting label="30010" type="select" id="mesen_aspect_ratio" values="Auto|No Stretching|NTSC|PAL|4:3|16:9" default="Auto"/>
+		<setting label="30010" type="select" id="mesen_aspect_ratio" values="Auto|No Stretching|NTSC|PAL|4:3|4:3 (Preserved)|16:9|16:9 (Preserved)" default="Auto"/>
 		<setting label="30011" type="select" id="mesen_controllerturbospeed" values="Fast|Very Fast|Disabled|Slow|Normal" default="Fast"/>
 		<setting label="30012" type="select" id="mesen_shift_buttons_clockwise" values="disabled|enabled" default="disabled"/>
 		<setting label="30013" type="select" id="mesen_hdpacks" values="enabled|disabled" default="enabled"/>
@@ -24,6 +24,6 @@
 		<setting label="30021" type="select" id="mesen_ramstate" values="All 0s (Default)|All 1s|Random Values" default="All 0s (Default)"/>
 		<setting label="30022" type="select" id="mesen_fdsautoinsertdisk" values="disabled|enabled" default="disabled"/>
 		<setting label="30023" type="select" id="mesen_fdsfastforwardload" values="disabled|enabled" default="disabled"/>
-		<setting label="30024" type="select" id="mesen_audio_sample_rate" values="96000|192000|384000|11025|22050|44100|48000" default="96000"/>
+		<setting label="30024" type="select" id="mesen_audio_sample_rate" values="48000|96000|11025|22050|44100" default="48000"/>
 	</category>
 </settings>
