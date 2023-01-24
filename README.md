@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.mesen/resources/icon.png)
+![Nintendo - NES / Famicom (Mesen) icon](game.libretro.mesen/resources/icon.png)
 
 ### Fanart
 
@@ -23,6 +23,6 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.mesen/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.mesen/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.mesen/resources/screenshot-03.jpg)
+![Nintendo - NES / Famicom (Mesen) screenshot](game.libretro.mesen/resources/screenshot-01.jpg)
+![Nintendo - NES / Famicom (Mesen) screenshot](game.libretro.mesen/resources/screenshot-02.jpg)
+![Nintendo - NES / Famicom (Mesen) screenshot](game.libretro.mesen/resources/screenshot-03.jpg)
