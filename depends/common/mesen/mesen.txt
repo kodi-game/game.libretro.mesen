@@ -1,1 +1,1 @@
-mesen https://github.com/libretro/Mesen/archive/c89474c9d87df967d21b7b7d5971dc9475fec028.tar.gz
+mesen https://github.com/libretro/Mesen/archive/6435516d8f6d11e96eecc6db8da73e86416fd20b.tar.gz
