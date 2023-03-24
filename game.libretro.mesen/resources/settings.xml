@@ -8,8 +8,8 @@
 		<setting label="30005" type="select" id="mesen_region" values="Auto|NTSC|PAL|Dendy" default="Auto"/>
 		<setting label="30006" type="select" id="mesen_overscan_left" values="None|4px|8px|12px|16px" default="None"/>
 		<setting label="30007" type="select" id="mesen_overscan_right" values="None|4px|8px|12px|16px" default="None"/>
-		<setting label="30008" type="select" id="mesen_overscan_up" values="None|4px|8px|12px|16px" default="None"/>
-		<setting label="30009" type="select" id="mesen_overscan_down" values="None|4px|8px|12px|16px" default="None"/>
+		<setting label="30008" type="select" id="mesen_overscan_up" values="None|4px|8px|12px|16px|20px|24px" default="None"/>
+		<setting label="30009" type="select" id="mesen_overscan_down" values="None|4px|8px|12px|16px|20px|24px" default="None"/>
 		<setting label="30010" type="select" id="mesen_aspect_ratio" values="Auto|No Stretching|NTSC|PAL|4:3|4:3 (Preserved)|16:9|16:9 (Preserved)" default="Auto"/>
 		<setting label="30011" type="select" id="mesen_controllerturbospeed" values="Fast|Very Fast|Disabled|Slow|Normal" default="Fast"/>
 		<setting label="30012" type="select" id="mesen_shift_buttons_clockwise" values="disabled|enabled" default="disabled"/>
