@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.10.1\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - NES / Famicom (Mesen) 0.9.9"
+msgid "Nintendo - NES / Famicom (Mesen)"
 msgstr ""
 
 msgctxt "Addon Description"

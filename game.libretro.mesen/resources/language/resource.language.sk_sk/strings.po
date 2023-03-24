@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - NES / Famicom (Mesen) 0.9.9"
+msgid "Nintendo - NES / Famicom (Mesen)"
 msgstr ""
 
 msgctxt "Addon Description"
