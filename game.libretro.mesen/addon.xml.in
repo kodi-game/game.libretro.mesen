@@ -25,6 +25,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - NES / Famicom (Mesen)</summary>
+		<summary lang="es_ES">Nintendo - NES / Famicom (Mesen)</summary>
 		<description lang="ca_ES">Mesen és un emulador de NES d&apos;alta precisió per a Windows i Linux.[CR][CR]Mesen ofereix nombroses funcions, com ara desar estats, filtres de vídeo, netplay, rebobinat, overclocking, codis de trampes i paquets HD.</description>
 		<description lang="da_DK">Mesen er en NES-emulator med høj nøjagtighed til Windows og Linux.[CR][CR]Mesen tilbyder adskillige funktioner, såsom gemmetilstande, videofiltre, netplay, tilbagespoling, overclocking, snydekoder og HD-pakker.</description>
 		<description lang="de_DE">Mesen ist ein hochpräziser NES-Emulator für Windows und Linux.[CR][CR]Mesen bietet zahlreiche Funktionen wie Speicherstände, Videofilter, Netplay, Rückspulen, Übertaktung, Cheatcodes und HD-Packs.</description>
