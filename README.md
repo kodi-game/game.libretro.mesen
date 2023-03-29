@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.mesen.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.mesen)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.mesen?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-mesen)
-
 # Nintendo - NES / Famicom (Mesen)
 
 ### Description
