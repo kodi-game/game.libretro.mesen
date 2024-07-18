@@ -113,10 +113,6 @@ msgctxt "#30021"
 msgid "Default power-on state for RAM"
 msgstr "RAM 的默认通电状态"
 
-msgctxt "#30022"
-msgid "FDS: Automatically insert disks"
-msgstr "FDS：自动插入磁盘"
-
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
 msgstr "FDS：加载时快进"
@@ -124,3 +120,11 @@ msgstr "FDS：加载时快进"
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
 msgstr "声音输出采样率"
+
+msgctxt "#30025"
+msgid "FDS: Automatically insert disk"
+msgstr ""
+
+#~ msgctxt "#30022"
+#~ msgid "FDS: Automatically insert disks"
+#~ msgstr "FDS：自动插入磁盘"

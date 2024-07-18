@@ -113,10 +113,6 @@ msgctxt "#30021"
 msgid "Default power-on state for RAM"
 msgstr "Standardeinschaltzustand für RAM"
 
-msgctxt "#30022"
-msgid "FDS: Automatically insert disks"
-msgstr "FDS: Datenträger automatisch einlegen"
-
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
 msgstr "FDS: Schnelles Vorspulen beim Laden"
@@ -124,3 +120,11 @@ msgstr "FDS: Schnelles Vorspulen beim Laden"
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
 msgstr "Samplingrate für Soundausgabe"
+
+msgctxt "#30025"
+msgid "FDS: Automatically insert disk"
+msgstr ""
+
+#~ msgctxt "#30022"
+#~ msgid "FDS: Automatically insert disks"
+#~ msgstr "FDS: Datenträger automatisch einlegen"

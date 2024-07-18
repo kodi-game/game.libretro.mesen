@@ -113,10 +113,6 @@ msgctxt "#30021"
 msgid "Default power-on state for RAM"
 msgstr "Estado de Encendido Por Defecto para la RAM"
 
-msgctxt "#30022"
-msgid "FDS: Automatically insert disks"
-msgstr "FDS: Inserción Automática de Discos"
-
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
 msgstr "FDS: Avance Rápido Durante la Carga"
@@ -124,3 +120,11 @@ msgstr "FDS: Avance Rápido Durante la Carga"
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
 msgstr "Frecuencia de Muestreo de la Salida de Sonido"
+
+msgctxt "#30025"
+msgid "FDS: Automatically insert disk"
+msgstr ""
+
+#~ msgctxt "#30022"
+#~ msgid "FDS: Automatically insert disks"
+#~ msgstr "FDS: Inserción Automática de Discos"

@@ -113,14 +113,14 @@ msgctxt "#30021"
 msgid "Default power-on state for RAM"
 msgstr ""
 
-msgctxt "#30022"
-msgid "FDS: Automatically insert disks"
-msgstr ""
-
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
 msgstr ""
 
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
+msgstr ""
+
+msgctxt "#30025"
+msgid "FDS: Automatically insert disk"
 msgstr ""
