@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Mesen is a high-accuracy NES emulator for Windows and Linux.[CR][CR]Mesen offers numerous features, such as save states, video filters, netplay, rewinding, overclocking, cheat codes and HD packs."
 msgstr "Mesen ist ein hochpräziser NES-Emulator für Windows und Linux.[CR][CR]Mesen bietet zahlreiche Funktionen wie Speicherstände, Videofilter, Netplay, Rückspulen, Übertaktung, Cheatcodes und HD-Packs."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "NTSC filter"
 msgstr "NTSC-Filter"
@@ -124,6 +120,10 @@ msgstr "Samplingrate für Soundausgabe"
 msgctxt "#30025"
 msgid "FDS: Automatically insert disk"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
 
 #~ msgctxt "#30022"
 #~ msgid "FDS: Automatically insert disks"
