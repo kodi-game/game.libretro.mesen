@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mesen\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-01-29 22:21i\n"
-"PO-Revision-Date: 2025-04-08 15:13+0000\n"
+"PO-Revision-Date: 2025-04-11 09:05+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mesen/sv_se/>\n"
 "Language: sv_se\n"
@@ -27,7 +27,7 @@ msgstr "Mesen är en NES-emulator med hög precision för Windows och Linux.[CR]
 
 msgctxt "#30001"
 msgid "NTSC filter"
-msgstr ""
+msgstr "NTSC-filter"
 
 msgctxt "#30002"
 msgid "Palette"
