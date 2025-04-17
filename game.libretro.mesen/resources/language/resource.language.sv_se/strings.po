@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mesen\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-01-29 22:21i\n"
-"PO-Revision-Date: 2025-04-14 08:16+0000\n"
+"PO-Revision-Date: 2025-04-17 04:26+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mesen/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10.4\n"
+"X-Generator: Weblate 5.11\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - NES / Famicom (Mesen)"
@@ -35,91 +35,105 @@ msgstr "Palett"
 
 msgctxt "#30003"
 msgid "Overclock"
-msgstr ""
+msgstr "Överklockning"
 
+#, fuzzy
 msgctxt "#30004"
 msgid "Overclock Type"
-msgstr ""
+msgstr "Typ av överklockning"
 
 msgctxt "#30005"
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgctxt "#30006"
 msgid "Left Overscan"
-msgstr ""
+msgstr "Vänster överskanning"
 
+#, fuzzy
 msgctxt "#30007"
 msgid "Right Overscan"
-msgstr ""
+msgstr "Höger överskanning"
 
+#, fuzzy
 msgctxt "#30008"
 msgid "Top Overscan"
-msgstr ""
+msgstr "Topp överskanning"
 
+#, fuzzy
 msgctxt "#30009"
 msgid "Bottom Overscan"
-msgstr ""
+msgstr "Nedre överskanning"
 
 msgctxt "#30010"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Bildförhållande"
 
+#, fuzzy
 msgctxt "#30011"
 msgid "Controller Turbo Speed"
-msgstr ""
+msgstr "Styrenhet Turbo Speed"
 
+#, fuzzy
 msgctxt "#30012"
 msgid "Shift A/B/X/Y clockwise"
-msgstr ""
+msgstr "Skifta A/B/X/Y medurs"
 
+#, fuzzy
 msgctxt "#30013"
 msgid "Enable HD Packs"
-msgstr ""
+msgstr "Aktivera HD-paket"
 
 msgctxt "#30014"
 msgid "Remove sprite limit"
-msgstr ""
+msgstr "Ta bort sprite-gräns"
 
 msgctxt "#30015"
 msgid "Enable fake stereo effect"
-msgstr ""
+msgstr "Aktivera falsk stereoeffekt"
 
+#, fuzzy
 msgctxt "#30016"
 msgid "Reduce popping on Triangle channel"
-msgstr ""
+msgstr "Minska poppandet på Triangle-kanalen"
 
+#, fuzzy
 msgctxt "#30017"
 msgid "Reduce popping on DMC channel"
-msgstr ""
+msgstr "Minska poppingen på DMC-kanalen"
 
+#, fuzzy
 msgctxt "#30018"
 msgid "Swap Square channel duty cycles"
-msgstr ""
+msgstr "Byt arbetscykler för fyrkantiga kanaler"
 
+#, fuzzy
 msgctxt "#30019"
 msgid "Disable Noise channel mode flag"
-msgstr ""
+msgstr "Inaktivera flagga för läge för bruskanal"
 
 msgctxt "#30020"
 msgid "Screen Rotation"
-msgstr ""
+msgstr "Skärmrotation"
 
+#, fuzzy
 msgctxt "#30021"
 msgid "Default power-on state for RAM"
-msgstr ""
+msgstr "Standardtillstånd för påslagning av RAM"
 
+#, fuzzy
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
-msgstr ""
+msgstr "FDS: Snabbspola framåt under laddning"
 
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
-msgstr ""
+msgstr "Samplingsfrekvens för ljudutgång"
 
+#, fuzzy
 msgctxt "#30025"
 msgid "FDS: Automatically insert disk"
-msgstr ""
+msgstr "FDS: Automatisk inmatning av diskett"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
