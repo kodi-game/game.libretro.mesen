@@ -121,6 +121,110 @@ msgctxt "#30025"
 msgid "FDS: Automatically insert disk"
 msgstr ""
 
+msgctxt "#30026"
+msgid "System"
+msgstr ""
+
+msgctxt "#30027"
+msgid "Change system settings."
+msgstr ""
+
+msgctxt "#30028"
+msgid "Use this to overclock or underclock the CPU. NOTE: Overclocking can cause issues in some games."
+msgstr ""
+
+msgctxt "#30029"
+msgid "Increases the number of scanlines in the PPU, before or after the NMI signal is triggered at the end of the visible frame. This effectively gives more time for games to perform calculations, which can reduce slowdowns in games. 'Before NMI' is the preferred option for overclocking, 'After NMI' should only be used if it does not work as expected."
+msgstr ""
+
+msgctxt "#30030"
+msgid "When set to Auto, the emulator will try to detect the game's region (NTSC or PAL), however this is not always possible. When there is nothing to suggest a game is for the PAL region, the NTSC region will be used by default. Dendy is used to mimic a number of different NES clones, in particular, the Dendy, which was a popular clone in Russia."
+msgstr ""
+
+msgctxt "#30031"
+msgid "On a console, the RAM's state at power on is undetermined and relatively random. This option lets you select Mesen's behavior when initializing RAM: set all bits to 0, set all bits to 1, or randomize the value of each bit."
+msgstr ""
+
+msgctxt "#30032"
+msgid "By default, the FDS boots with no disk inserted in the drive. This option makes it so the player does not need to manually insert disk 1, side A manually."
+msgstr ""
+
+msgctxt "#30033"
+msgid "FDS games contain a large number of load screens due to their data being stored on floppy drives. Mesen needs to emulate this floppy drive's speed to ensure accurate emulation. This option makes it so Mesen runs the emulation as fast as it can when a game is loading data from the disk, which greatly reduces the time spent on loading screens."
+msgstr ""
+
+msgctxt "#30034"
+msgid "Video"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Change video settings."
+msgstr ""
+
+msgctxt "#30036"
+msgid "Select a filter to apply to the picture. Blargg filters are fast, Bisqwit filters are slower."
+msgstr ""
+
+msgctxt "#30037"
+msgid "The NES can normally only draw up to 8 sprites per line, this limitation is indirectly responsible for some of the flickering seen in games at times. When this option is enabled, the limit is disabled, allowing up to 64 sprites to be drawn on the same line."
+msgstr ""
+
+msgctxt "#30038"
+msgid "This overscan setting allow you to cut out pixels on the left side of the screen."
+msgstr ""
+
+msgctxt "#30039"
+msgid "This overscan setting allow you to cut out pixels on the right side of the screen."
+msgstr ""
+
+msgctxt "#30040"
+msgid "This overscan setting allow you to cut out pixels on the top of the screen."
+msgstr ""
+
+msgctxt "#30041"
+msgid "This overscan setting allow you to cut out pixels on the bottom of the screen."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Rotates the display by the specified angle. This is useful to play games (generally homebrew games) designed for a vertical display."
+msgstr ""
+
+msgctxt "#30043"
+msgid "Audio"
+msgstr ""
+
+msgctxt "#30044"
+msgid "Change audio settings."
+msgstr ""
+
+msgctxt "#30045"
+msgid "This option mutes the triangle channel under certain conditions, which prevents it from causing popping sounds."
+msgstr ""
+
+msgctxt "#30046"
+msgid "This option prevents games from changing the output of the DMC channel too abruptly, which often causes popping sounds."
+msgstr ""
+
+msgctxt "#30047"
+msgid "This option is to mimic some older NES clones that had incorrect sound output for both of the square channels. It greatly alters the sound in some games, and shouldn't be enabled unless you want this behavior."
+msgstr ""
+
+msgctxt "#30048"
+msgid "Very early Famicom models did not implement this feature, so this option is available to mimic early Famicom consoles. It changes the sound output of the noise channel in some games, and shouldn't be enabled unless you want this behavior."
+msgstr ""
+
+msgctxt "#30049"
+msgid "Input"
+msgstr ""
+
+msgctxt "#30050"
+msgid "Change input settings."
+msgstr ""
+
+msgctxt "#30051"
+msgid "Configure the controller turbo buttons speed."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Indstillinger"
