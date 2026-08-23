@@ -9,10 +9,10 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>Low</option>
-							<option>Medium</option>
-							<option>High</option>
-							<option>Very High</option>
+							<option label="30052">Low</option>
+							<option label="30053">Medium</option>
+							<option label="30054">High</option>
+							<option label="30055">Very High</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -34,9 +34,9 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>NTSC</option>
-							<option>PAL</option>
-							<option>Dendy</option>
+							<option label="30056">NTSC</option>
+							<option label="30057">PAL</option>
+							<option label="30058">Dendy</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -85,13 +85,13 @@
 					<constraints>
 						<options>
 							<option label="13106">Disabled</option>
-							<option>Composite (Blargg)</option>
-							<option>S-Video (Blargg)</option>
-							<option>RGB (Blargg)</option>
-							<option>Monochrome (Blargg)</option>
-							<option>Bisqwit 2x</option>
-							<option>Bisqwit 4x</option>
-							<option>Bisqwit 8x</option>
+							<option label="30059">Composite (Blargg)</option>
+							<option label="30060">S-Video (Blargg)</option>
+							<option label="30061">RGB (Blargg)</option>
+							<option label="30062">Monochrome (Blargg)</option>
+							<option label="30063">Bisqwit 2x</option>
+							<option label="30064">Bisqwit 4x</option>
+							<option label="30065">Bisqwit 8x</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -102,17 +102,17 @@
 					<constraints>
 						<options>
 							<option label="571">Default</option>
-							<option>Composite Direct (by FirebrandX)</option>
-							<option>Nes Classic</option>
-							<option>Nestopia (RGB)</option>
-							<option>Original Hardware (by FirebrandX)</option>
-							<option>PVM Style (by FirebrandX)</option>
-							<option>Sony CXA2025AS</option>
-							<option>Unsaturated v6 (by FirebrandX)</option>
-							<option>YUV v3 (by FirebrandX)</option>
-							<option>Wavebeam (by nakedarthur)</option>
-							<option>Custom</option>
-							<option>Raw</option>
+							<option label="30066">Composite Direct (by FirebrandX)</option>
+							<option label="30067">Nes Classic</option>
+							<option label="30068">Nestopia (RGB)</option>
+							<option label="30069">Original Hardware (by FirebrandX)</option>
+							<option label="30070">PVM Style (by FirebrandX)</option>
+							<option label="30071">Sony CXA2025AS</option>
+							<option label="30072">Unsaturated v6 (by FirebrandX)</option>
+							<option label="30073">YUV v3 (by FirebrandX)</option>
+							<option label="30074">Wavebeam (by nakedarthur)</option>
+							<option label="30075">Custom</option>
+							<option label="30076">Raw</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -134,10 +134,10 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>4px</option>
-							<option>8px</option>
-							<option>12px</option>
-							<option>16px</option>
+							<option label="30077">4px</option>
+							<option label="30078">8px</option>
+							<option label="30079">12px</option>
+							<option label="30080">16px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -148,10 +148,10 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>4px</option>
-							<option>8px</option>
-							<option>12px</option>
-							<option>16px</option>
+							<option label="30077">4px</option>
+							<option label="30078">8px</option>
+							<option label="30079">12px</option>
+							<option label="30080">16px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -162,12 +162,12 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>4px</option>
-							<option>8px</option>
-							<option>12px</option>
-							<option>16px</option>
-							<option>20px</option>
-							<option>24px</option>
+							<option label="30077">4px</option>
+							<option label="30078">8px</option>
+							<option label="30079">12px</option>
+							<option label="30080">16px</option>
+							<option label="30081">20px</option>
+							<option label="30082">24px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -178,12 +178,12 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>4px</option>
-							<option>8px</option>
-							<option>12px</option>
-							<option>16px</option>
-							<option>20px</option>
-							<option>24px</option>
+							<option label="30077">4px</option>
+							<option label="30078">8px</option>
+							<option label="30079">12px</option>
+							<option label="30080">16px</option>
+							<option label="30081">20px</option>
+							<option label="30082">24px</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -194,13 +194,13 @@
 					<constraints>
 						<options>
 							<option label="16316">Auto</option>
-							<option>No Stretching</option>
-							<option>NTSC</option>
-							<option>PAL</option>
-							<option>4:3</option>
-							<option>4:3 (Preserved)</option>
-							<option>16:9</option>
-							<option>16:9 (Preserved)</option>
+							<option label="30083">No Stretching</option>
+							<option label="30056">NTSC</option>
+							<option label="30057">PAL</option>
+							<option label="30084">4:3</option>
+							<option label="30085">4:3 (Preserved)</option>
+							<option label="30086">16:9</option>
+							<option label="30087">16:9 (Preserved)</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -222,9 +222,9 @@
 					<constraints>
 						<options>
 							<option label="231">None</option>
-							<option>90 degrees</option>
-							<option>180 degrees</option>
-							<option>270 degrees</option>
+							<option label="30088">90 degrees</option>
+							<option label="30089">180 degrees</option>
+							<option label="30090">270 degrees</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -311,10 +311,10 @@
 					<default>Fast</default>
 					<constraints>
 						<options>
-							<option>Slow</option>
-							<option>Normal</option>
-							<option>Fast</option>
-							<option>Very Fast</option>
+							<option label="30091">Slow</option>
+							<option label="30092">Normal</option>
+							<option label="30093">Fast</option>
+							<option label="30094">Very Fast</option>
 							<option label="13106">Disabled</option>
 						</options>
 					</constraints>
