@@ -225,6 +225,178 @@ msgctxt "#30051"
 msgid "Configure the controller turbo buttons speed."
 msgstr ""
 
+msgctxt "#30052"
+msgid "Low"
+msgstr ""
+
+msgctxt "#30053"
+msgid "Medium"
+msgstr ""
+
+msgctxt "#30054"
+msgid "High"
+msgstr ""
+
+msgctxt "#30055"
+msgid "Very High"
+msgstr ""
+
+msgctxt "#30056"
+msgid "NTSC"
+msgstr ""
+
+msgctxt "#30057"
+msgid "PAL"
+msgstr ""
+
+msgctxt "#30058"
+msgid "Dendy"
+msgstr ""
+
+msgctxt "#30059"
+msgid "Composite (Blargg)"
+msgstr ""
+
+msgctxt "#30060"
+msgid "S-Video (Blargg)"
+msgstr ""
+
+msgctxt "#30061"
+msgid "RGB (Blargg)"
+msgstr ""
+
+msgctxt "#30062"
+msgid "Monochrome (Blargg)"
+msgstr ""
+
+msgctxt "#30063"
+msgid "Bisqwit 2x"
+msgstr ""
+
+msgctxt "#30064"
+msgid "Bisqwit 4x"
+msgstr ""
+
+msgctxt "#30065"
+msgid "Bisqwit 8x"
+msgstr ""
+
+msgctxt "#30066"
+msgid "Composite Direct (by FirebrandX)"
+msgstr ""
+
+msgctxt "#30067"
+msgid "Nes Classic"
+msgstr ""
+
+msgctxt "#30068"
+msgid "Nestopia (RGB)"
+msgstr ""
+
+msgctxt "#30069"
+msgid "Original Hardware (by FirebrandX)"
+msgstr ""
+
+msgctxt "#30070"
+msgid "PVM Style (by FirebrandX)"
+msgstr ""
+
+msgctxt "#30071"
+msgid "Sony CXA2025AS"
+msgstr ""
+
+msgctxt "#30072"
+msgid "Unsaturated v6 (by FirebrandX)"
+msgstr ""
+
+msgctxt "#30073"
+msgid "YUV v3 (by FirebrandX)"
+msgstr ""
+
+msgctxt "#30074"
+msgid "Wavebeam (by nakedarthur)"
+msgstr ""
+
+msgctxt "#30075"
+msgid "Custom"
+msgstr ""
+
+msgctxt "#30076"
+msgid "Raw"
+msgstr ""
+
+msgctxt "#30077"
+msgid "4px"
+msgstr ""
+
+msgctxt "#30078"
+msgid "8px"
+msgstr ""
+
+msgctxt "#30079"
+msgid "12px"
+msgstr ""
+
+msgctxt "#30080"
+msgid "16px"
+msgstr ""
+
+msgctxt "#30081"
+msgid "20px"
+msgstr ""
+
+msgctxt "#30082"
+msgid "24px"
+msgstr ""
+
+msgctxt "#30083"
+msgid "No Stretching"
+msgstr ""
+
+msgctxt "#30084"
+msgid "4:3"
+msgstr ""
+
+msgctxt "#30085"
+msgid "4:3 (Preserved)"
+msgstr ""
+
+msgctxt "#30086"
+msgid "16:9"
+msgstr ""
+
+msgctxt "#30087"
+msgid "16:9 (Preserved)"
+msgstr ""
+
+msgctxt "#30088"
+msgid "90 degrees"
+msgstr ""
+
+msgctxt "#30089"
+msgid "180 degrees"
+msgstr ""
+
+msgctxt "#30090"
+msgid "270 degrees"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Slow"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Normal"
+msgstr ""
+
+msgctxt "#30093"
+msgid "Fast"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Very Fast"
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "设置"
