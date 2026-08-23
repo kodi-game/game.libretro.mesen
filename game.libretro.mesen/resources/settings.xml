@@ -8,7 +8,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>Low</option>
 							<option>Medium</option>
 							<option>High</option>
@@ -33,7 +33,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>NTSC</option>
 							<option>PAL</option>
 							<option>Dendy</option>
@@ -58,8 +58,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -69,8 +69,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -84,7 +84,7 @@
 					<default>Disabled</default>
 					<constraints>
 						<options>
-							<option>Disabled</option>
+							<option label="13106">Disabled</option>
 							<option>Composite (Blargg)</option>
 							<option>S-Video (Blargg)</option>
 							<option>RGB (Blargg)</option>
@@ -101,7 +101,7 @@
 					<default>Default</default>
 					<constraints>
 						<options>
-							<option>Default</option>
+							<option label="571">Default</option>
 							<option>Composite Direct (by FirebrandX)</option>
 							<option>Nes Classic</option>
 							<option>Nestopia (RGB)</option>
@@ -122,8 +122,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -133,7 +133,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>4px</option>
 							<option>8px</option>
 							<option>12px</option>
@@ -147,7 +147,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>4px</option>
 							<option>8px</option>
 							<option>12px</option>
@@ -161,7 +161,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>4px</option>
 							<option>8px</option>
 							<option>12px</option>
@@ -177,7 +177,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>4px</option>
 							<option>8px</option>
 							<option>12px</option>
@@ -193,7 +193,7 @@
 					<default>Auto</default>
 					<constraints>
 						<options>
-							<option>Auto</option>
+							<option label="16316">Auto</option>
 							<option>No Stretching</option>
 							<option>NTSC</option>
 							<option>PAL</option>
@@ -210,8 +210,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -221,7 +221,7 @@
 					<default>None</default>
 					<constraints>
 						<options>
-							<option>None</option>
+							<option label="231">None</option>
 							<option>90 degrees</option>
 							<option>180 degrees</option>
 							<option>270 degrees</option>
@@ -238,8 +238,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -249,8 +249,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -260,8 +260,8 @@
 					<default>enabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -271,8 +271,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -282,8 +282,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -315,7 +315,7 @@
 							<option>Normal</option>
 							<option>Fast</option>
 							<option>Very Fast</option>
-							<option>Disabled</option>
+							<option label="13106">Disabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
@@ -325,8 +325,8 @@
 					<default>disabled</default>
 					<constraints>
 						<options>
-							<option>disabled</option>
-							<option>enabled</option>
+							<option label="13106">disabled</option>
+							<option label="305">enabled</option>
 						</options>
 					</constraints>
 					<control type="list" format="string" />
