@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.mesen\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2019-01-29 22:21i\n"
-"PO-Revision-Date: 2025-04-22 22:51+0000\n"
+"PO-Revision-Date: 2026-11-02 20:49+0000\n"
 "Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-mesen/sv_se/>\n"
 "Language: sv_se\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11\n"
+"X-Generator: Weblate 2026.10.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - NES / Famicom (Mesen)"
@@ -49,17 +49,14 @@ msgctxt "#30006"
 msgid "Left Overscan"
 msgstr "Vänster överskanning"
 
-#, fuzzy
 msgctxt "#30007"
 msgid "Right Overscan"
 msgstr "Höger överskanning"
 
-#, fuzzy
 msgctxt "#30008"
 msgid "Top Overscan"
-msgstr "Topp överskanning"
+msgstr "Övre överskanning"
 
-#, fuzzy
 msgctxt "#30009"
 msgid "Bottom Overscan"
 msgstr "Nedre överskanning"
@@ -68,17 +65,14 @@ msgctxt "#30010"
 msgid "Aspect Ratio"
 msgstr "Bildförhållande"
 
-#, fuzzy
 msgctxt "#30011"
 msgid "Controller Turbo Speed"
-msgstr "Styrenhet Turbo Speed"
+msgstr "Hastighet för handkontrollens turbo"
 
-#, fuzzy
 msgctxt "#30012"
 msgid "Shift A/B/X/Y clockwise"
-msgstr "Skifta A/B/X/Y medurs"
+msgstr "Flytta A/B/X/Y medurs"
 
-#, fuzzy
 msgctxt "#30013"
 msgid "Enable HD Packs"
 msgstr "Aktivera HD-paket"
@@ -91,324 +85,317 @@ msgctxt "#30015"
 msgid "Enable fake stereo effect"
 msgstr "Aktivera falsk stereoeffekt"
 
-#, fuzzy
 msgctxt "#30016"
 msgid "Reduce popping on Triangle channel"
-msgstr "Minska poppandet på Triangle-kanalen"
+msgstr "Minska knäppningar i triangelkanalen"
 
-#, fuzzy
 msgctxt "#30017"
 msgid "Reduce popping on DMC channel"
-msgstr "Minska poppingen på DMC-kanalen"
+msgstr "Minska knäppningar i DMC-kanalen"
 
-#, fuzzy
 msgctxt "#30018"
 msgid "Swap Square channel duty cycles"
-msgstr "Byt arbetscykler för fyrkantiga kanaler"
+msgstr "Växla pulskanalernas arbetscykler"
 
-#, fuzzy
 msgctxt "#30019"
 msgid "Disable Noise channel mode flag"
-msgstr "Inaktivera flagga för läge för bruskanal"
+msgstr "Inaktivera lägesflaggan för bruskanalen"
 
 msgctxt "#30020"
 msgid "Screen Rotation"
 msgstr "Skärmrotation"
 
-#, fuzzy
 msgctxt "#30021"
 msgid "Default power-on state for RAM"
-msgstr "Standardtillstånd för påslagning av RAM"
+msgstr "Standardtillstånd för RAM vid start"
 
-#, fuzzy
 msgctxt "#30023"
 msgid "FDS: Fast forward while loading"
-msgstr "FDS: Snabbspola framåt under laddning"
+msgstr "FDS: spola framåt under inläsning"
 
 msgctxt "#30024"
 msgid "Sound Output Sample Rate"
 msgstr "Samplingsfrekvens för ljudutgång"
 
-#, fuzzy
 msgctxt "#30025"
 msgid "FDS: Automatically insert disk"
-msgstr "FDS: Automatisk inmatning av diskett"
+msgstr "FDS: sätt i disk automatiskt"
 
 msgctxt "#30026"
 msgid "System"
-msgstr ""
+msgstr "System"
 
 msgctxt "#30027"
 msgid "Change system settings."
-msgstr ""
+msgstr "Ändra systeminställningar."
 
 msgctxt "#30028"
 msgid "Use this to overclock or underclock the CPU. NOTE: Overclocking can cause issues in some games."
-msgstr ""
+msgstr "Använd detta för att över- eller underklocka processorn. OBS: Överklockning kan orsaka problem i vissa spel."
 
 msgctxt "#30029"
 msgid "Increases the number of scanlines in the PPU, before or after the NMI signal is triggered at the end of the visible frame. This effectively gives more time for games to perform calculations, which can reduce slowdowns in games. 'Before NMI' is the preferred option for overclocking, 'After NMI' should only be used if it does not work as expected."
-msgstr ""
+msgstr "Ökar antalet bildlinjer i PPU:n före eller efter att NMI-signalen utlöses i slutet av den synliga bildrutan. Det ger i praktiken spelen mer tid för beräkningar, vilket kan minska långsamhet. \"Före NMI\" är det rekommenderade valet för överklockning. \"Efter NMI\" bör endast användas om resultatet annars inte blir som förväntat."
 
 msgctxt "#30030"
 msgid "When set to Auto, the emulator will try to detect the game's region (NTSC or PAL), however this is not always possible. When there is nothing to suggest a game is for the PAL region, the NTSC region will be used by default. Dendy is used to mimic a number of different NES clones, in particular, the Dendy, which was a popular clone in Russia."
-msgstr ""
+msgstr "När detta ställs in på automatiskt försöker emulatorn identifiera spelets region, NTSC eller PAL, men det är inte alltid möjligt. Om inget tyder på att ett spel är avsett för PAL används NTSC som standard. Dendy används för att efterlikna flera NES-kloner, särskilt Dendy som var en populär klon i Ryssland."
 
 msgctxt "#30031"
 msgid "On a console, the RAM's state at power on is undetermined and relatively random. This option lets you select Mesen's behavior when initializing RAM: set all bits to 0, set all bits to 1, or randomize the value of each bit."
-msgstr ""
+msgstr "På en konsol är RAM-minnets tillstånd vid start obestämt och ganska slumpmässigt. Med det här valet kan du ange Mesens beteende vid initiering av RAM: sätt alla bitar till 0, alla till 1 eller slumpa varje bits värde."
 
 msgctxt "#30032"
 msgid "By default, the FDS boots with no disk inserted in the drive. This option makes it so the player does not need to manually insert disk 1, side A manually."
-msgstr ""
+msgstr "Som standard startar FDS utan någon disk i enheten. Med det här valet behöver spelaren inte själv sätta i disk 1, sida A."
 
 msgctxt "#30033"
 msgid "FDS games contain a large number of load screens due to their data being stored on floppy drives. Mesen needs to emulate this floppy drive's speed to ensure accurate emulation. This option makes it so Mesen runs the emulation as fast as it can when a game is loading data from the disk, which greatly reduces the time spent on loading screens."
-msgstr ""
+msgstr "FDS-spel innehåller många inläsningsskärmar eftersom data lagras på disketter. Mesen måste emulera diskettstationens hastighet för korrekt emulering. Med det här valet kör Mesen emuleringen så fort som möjligt när spelet läser in data från disken, vilket minskar tiden på inläsningsskärmarna avsevärt."
 
 msgctxt "#30034"
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgctxt "#30035"
 msgid "Change video settings."
-msgstr ""
+msgstr "Ändra videoinställningar."
 
 msgctxt "#30036"
 msgid "Select a filter to apply to the picture. Blargg filters are fast, Bisqwit filters are slower."
-msgstr ""
+msgstr "Välj ett filter att använda på bilden. Blargg-filter är snabba, Bisqwit-filter är långsammare."
 
 msgctxt "#30037"
 msgid "The NES can normally only draw up to 8 sprites per line, this limitation is indirectly responsible for some of the flickering seen in games at times. When this option is enabled, the limit is disabled, allowing up to 64 sprites to be drawn on the same line."
-msgstr ""
+msgstr "NES kan normalt bara rita upp till 8 sprites per rad. Begränsningen orsakar indirekt en del av det flimmer som ibland syns i spel. När detta alternativ är aktiverat tas begränsningen bort så att upp till 64 sprites kan ritas på samma rad."
 
 msgctxt "#30038"
 msgid "This overscan setting allow you to cut out pixels on the left side of the screen."
-msgstr ""
+msgstr "Med den här överskanningsinställningen kan du klippa bort bildpunkter på skärmens vänstra sida."
 
 msgctxt "#30039"
 msgid "This overscan setting allow you to cut out pixels on the right side of the screen."
-msgstr ""
+msgstr "Med den här överskanningsinställningen kan du klippa bort bildpunkter på skärmens högra sida."
 
 msgctxt "#30040"
 msgid "This overscan setting allow you to cut out pixels on the top of the screen."
-msgstr ""
+msgstr "Med den här överskanningsinställningen kan du klippa bort bildpunkter längst upp på skärmen."
 
 msgctxt "#30041"
 msgid "This overscan setting allow you to cut out pixels on the bottom of the screen."
-msgstr ""
+msgstr "Med den här överskanningsinställningen kan du klippa bort bildpunkter längst ned på skärmen."
 
 msgctxt "#30042"
 msgid "Rotates the display by the specified angle. This is useful to play games (generally homebrew games) designed for a vertical display."
-msgstr ""
+msgstr "Roterar bilden med angiven vinkel. Det är användbart för spel, vanligen hembyggen, som är utformade för en vertikal skärm."
 
 msgctxt "#30043"
 msgid "Audio"
-msgstr ""
+msgstr "Ljud"
 
 msgctxt "#30044"
 msgid "Change audio settings."
-msgstr ""
+msgstr "Ändra ljudinställningar."
 
 msgctxt "#30045"
 msgid "This option mutes the triangle channel under certain conditions, which prevents it from causing popping sounds."
-msgstr ""
+msgstr "Det här alternativet tystar triangelkanalen under vissa förhållanden, vilket hindrar den från att orsaka knäppande ljud."
 
 msgctxt "#30046"
 msgid "This option prevents games from changing the output of the DMC channel too abruptly, which often causes popping sounds."
-msgstr ""
+msgstr "Det här alternativet hindrar spelen från att ändra DMC-kanalens utdata alltför abrupt, vilket ofta orsakar knäppande ljud."
 
 msgctxt "#30047"
 msgid "This option is to mimic some older NES clones that had incorrect sound output for both of the square channels. It greatly alters the sound in some games, and shouldn't be enabled unless you want this behavior."
-msgstr ""
+msgstr "Det här alternativet efterliknar äldre NES-kloner som hade felaktig ljudutmatning för båda pulskanalerna. Det ändrar ljudet kraftigt i vissa spel och bör inte aktiveras om du inte vill ha just det beteendet."
 
 msgctxt "#30048"
 msgid "Very early Famicom models did not implement this feature, so this option is available to mimic early Famicom consoles. It changes the sound output of the noise channel in some games, and shouldn't be enabled unless you want this behavior."
-msgstr ""
+msgstr "Mycket tidiga Famicom-modeller hade inte denna funktion, så alternativet finns för att efterlikna tidiga Famicom-konsoler. Det ändrar ljudutmatningen för bruskanalen i vissa spel och bör inte aktiveras om du inte vill ha just det beteendet."
 
 msgctxt "#30049"
 msgid "Input"
-msgstr ""
+msgstr "Inmatning"
 
 msgctxt "#30050"
 msgid "Change input settings."
-msgstr ""
+msgstr "Ändra inmatningsinställningar."
 
 msgctxt "#30051"
 msgid "Configure the controller turbo buttons speed."
-msgstr ""
+msgstr "Konfigurera hastigheten för handkontrollens turboknappar."
 
 msgctxt "#30052"
 msgid "Low"
-msgstr ""
+msgstr "Låg"
 
 msgctxt "#30053"
 msgid "Medium"
-msgstr ""
+msgstr "Medel"
 
 msgctxt "#30054"
 msgid "High"
-msgstr ""
+msgstr "Hög"
 
 msgctxt "#30055"
 msgid "Very High"
-msgstr ""
+msgstr "Mycket hög"
 
 msgctxt "#30056"
 msgid "NTSC"
-msgstr ""
+msgstr "NTSC"
 
 msgctxt "#30057"
 msgid "PAL"
-msgstr ""
+msgstr "PAL"
 
 msgctxt "#30058"
 msgid "Dendy"
-msgstr ""
+msgstr "Dendy"
 
 msgctxt "#30059"
 msgid "Composite (Blargg)"
-msgstr ""
+msgstr "Komposit (Blargg)"
 
 msgctxt "#30060"
 msgid "S-Video (Blargg)"
-msgstr ""
+msgstr "S-video (Blargg)"
 
 msgctxt "#30061"
 msgid "RGB (Blargg)"
-msgstr ""
+msgstr "RGB (Blargg)"
 
 msgctxt "#30062"
 msgid "Monochrome (Blargg)"
-msgstr ""
+msgstr "Monokrom (Blargg)"
 
 msgctxt "#30063"
 msgid "Bisqwit 2x"
-msgstr ""
+msgstr "Bisqwit 2x"
 
 msgctxt "#30064"
 msgid "Bisqwit 4x"
-msgstr ""
+msgstr "Bisqwit 4x"
 
 msgctxt "#30065"
 msgid "Bisqwit 8x"
-msgstr ""
+msgstr "Bisqwit 8x"
 
 msgctxt "#30066"
 msgid "Composite Direct (by FirebrandX)"
-msgstr ""
+msgstr "Direkt komposit (av FirebrandX)"
 
 msgctxt "#30067"
 msgid "Nes Classic"
-msgstr ""
+msgstr "NES Classic"
 
 msgctxt "#30068"
 msgid "Nestopia (RGB)"
-msgstr ""
+msgstr "Nestopia (RGB)"
 
 msgctxt "#30069"
 msgid "Original Hardware (by FirebrandX)"
-msgstr ""
+msgstr "Originalmaskinvara (av FirebrandX)"
 
 msgctxt "#30070"
 msgid "PVM Style (by FirebrandX)"
-msgstr ""
+msgstr "PVM-stil (av FirebrandX)"
 
 msgctxt "#30071"
 msgid "Sony CXA2025AS"
-msgstr ""
+msgstr "Sony CXA2025AS"
 
 msgctxt "#30072"
 msgid "Unsaturated v6 (by FirebrandX)"
-msgstr ""
+msgstr "Omättad v6 (av FirebrandX)"
 
 msgctxt "#30073"
 msgid "YUV v3 (by FirebrandX)"
-msgstr ""
+msgstr "YUV v3 (av FirebrandX)"
 
 msgctxt "#30074"
 msgid "Wavebeam (by nakedarthur)"
-msgstr ""
+msgstr "Wavebeam (av nakedarthur)"
 
 msgctxt "#30075"
 msgid "Custom"
-msgstr ""
+msgstr "Anpassat"
 
 msgctxt "#30076"
 msgid "Raw"
-msgstr ""
+msgstr "Rå"
 
 msgctxt "#30077"
 msgid "4px"
-msgstr ""
+msgstr "4 px"
 
 msgctxt "#30078"
 msgid "8px"
-msgstr ""
+msgstr "8 px"
 
 msgctxt "#30079"
 msgid "12px"
-msgstr ""
+msgstr "12 px"
 
 msgctxt "#30080"
 msgid "16px"
-msgstr ""
+msgstr "16 px"
 
 msgctxt "#30081"
 msgid "20px"
-msgstr ""
+msgstr "20 px"
 
 msgctxt "#30082"
 msgid "24px"
-msgstr ""
+msgstr "24 px"
 
 msgctxt "#30083"
 msgid "No Stretching"
-msgstr ""
+msgstr "Ingen utsträckning"
 
 msgctxt "#30084"
 msgid "4:3"
-msgstr ""
+msgstr "4:3"
 
 msgctxt "#30085"
 msgid "4:3 (Preserved)"
-msgstr ""
+msgstr "4:3 (bevarad)"
 
 msgctxt "#30086"
 msgid "16:9"
-msgstr ""
+msgstr "16:9"
 
 msgctxt "#30087"
 msgid "16:9 (Preserved)"
-msgstr ""
+msgstr "16:9 (bevarad)"
 
 msgctxt "#30088"
 msgid "90 degrees"
-msgstr ""
+msgstr "90 grader"
 
 msgctxt "#30089"
 msgid "180 degrees"
-msgstr ""
+msgstr "180 grader"
 
 msgctxt "#30090"
 msgid "270 degrees"
-msgstr ""
+msgstr "270 grader"
 
 msgctxt "#30091"
 msgid "Slow"
-msgstr ""
+msgstr "Långsam"
 
 msgctxt "#30092"
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgctxt "#30093"
 msgid "Fast"
-msgstr ""
+msgstr "Snabb"
 
 msgctxt "#30094"
 msgid "Very Fast"
-msgstr ""
+msgstr "Mycket snabb"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
